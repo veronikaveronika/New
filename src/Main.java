@@ -3,7 +3,5 @@ public class Main {
         System.out.println("Hello world!");
     }
     //COMMENTSasdfafdafs
-//new comment
-    //onemore
-    //1
+
 }
